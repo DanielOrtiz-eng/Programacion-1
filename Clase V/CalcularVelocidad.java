@@ -1,7 +1,7 @@
 // Ejercicio 4.1 E)
 import java.util.Scanner;
 
-public class Ejercicio41e {
+public class CEjercicio 4.1E {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -24,4 +24,3 @@ public class Ejercicio41e {
         scanner.close();
     }
 }
-// Lo del que calculara la velocidad lo agregue para utilizar los datos y no solo dejarlos alli
