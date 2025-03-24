@@ -24,4 +24,4 @@ public class Ejercicio41e {
         scanner.close();
     }
 }
-// Lo del que calculara la velocidad lo agregue para utilizar los datos y no solo dejarlos alli
+// Lo de que calculara la velocidad lo agregue para utilizar los datos y no solo dejarlos alli

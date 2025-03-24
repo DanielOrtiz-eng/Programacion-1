@@ -1,16 +1,25 @@
 {
     "java.project.sourcePaths": [
+        "Ejercicio 4.9",
+        "Ejercicio 4.8",
+        "Ejercicio 4.7",
+        "Ejercicio 4.6",
+        "Ejercicio 4.13",
+        "Ejercicio 4.12",
+        "Ejercicio 4.11",
+        "Ejercicio 4.10",
         "Ejercicio 3.9",
         "Ejercicio 3.11",
         "Ejercicio 3.10",
         "Ejercicio 2.12",
         "Ejercicio 2.11",
         "Ejercicio 2.10",
+        "Clase V",
         "Clase IV",
         "Clase III",
         "Clase II",
         "Clase I",
         "Actividad Evaluativa/Parte 1",
-        "Clase V"
+        "Ejercicio 4.14"
     ]
 }
