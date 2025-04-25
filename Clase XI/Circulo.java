@@ -1,19 +1,21 @@
 public class Circulo {
-    // Atributo
+   
+    //Atributos
     private double radio;
-
-    // Constructor de la clase: nos permite inicializar la clase
-    public Circulo(double radio) {
-        this.radio = radio; // 'this' es una autoreferencia al atributo de la clase
+ 
+    //Constructor de la clase: nos permite inicializar la clase
+    //El método constructor se llama igual que la clase
+   
+    public Circulo(double radio){
+        this.radio = radio; //this es una autoreferencia al atributo de la clase
     }
-
-    // Método para calcular el perímetro del círculo
-    public double calcularPerimetro() {
+ 
+    //Métodos
+    public double calcularPerimetro(){
         return 2 * Math.PI * radio;
     }
-
-    // Método para calcular el área del círculo
-    public double calcularArea() {
-        return Math.PI * radio * radio;
+ 
+    public double calcularArea(){
+        return Math.PI * (radio * radio); // Math.PI * Math.pow(radio,2)
     }
 }
